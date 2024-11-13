@@ -114,5 +114,45 @@ console.log(ceal( [
 // .filter((value) => value.age >= minimumAge): Keeps only users whose age is greater than or equal to minimumAge.
 // .map((value) => value.name): After filtering, we use map to extract only the name property.
 
+// ------------------------------------------------------------------------------------------  
+
+// 4) qst 
+// Question 2: Find the Longest Word in a String
+// Problem: Write a JavaScript function that takes a string as input and returns the longest word in the string. If there are multiple words with the same maximum length, return the first one.
+
+// Example:
+
+// javascript
+// Copy code
+// Input: "The quick brown fox jumped over the lazy dog"
+// Output: "jumped"
+// Give it a try, and let me know your solution! If you'd like help or a hint, feel free to ask.
+
+// ----------------------------------------------------------  
+// answer  
 
 
+
+
+
+// ----------------------------------------------------------------------------------------------------  
+// Question 5: 
+// Find the Most Frequent Element in an Array
+// Problem: Write a JavaScript function that takes an array as input and returns the element that appears most frequently in the array. If there are multiple elements with the same maximum frequency, return any one of them.
+
+// Example:
+
+// javascript
+// Copy code
+// // Input
+// const array = [1, 3, 2, 3, 4, 3, 5, 1, 1];
+
+// // Output
+// 3
+// -------------------------------------------  
+
+// const x=((d)=>{
+//  return d.filter((g)=>{
+//   g===
+// })
+// })
